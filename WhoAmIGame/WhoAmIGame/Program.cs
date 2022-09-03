@@ -5,7 +5,7 @@ using WhoAmIGame.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddRazorPages();
+builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
 builder.Services.AddServerSideBlazor();
 
 builder.Services.AddDbContext<DataContext>(options =>

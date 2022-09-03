@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "z1XpXxtK6vhpxTlD3jv+Gt0blckkUUaqr2kT5dkRgqk=",
+  "Hash": "B8h8S2R9/26k7e+D3GjHu4VhiCvune+TkT5j1aeTUcI=",
   "Source": "WhoAmIGame",
   "BasePath": "_content/WhoAmIGame",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WhoAmIGame\\wwwroot",
       "Source": "WhoAmIGame",
-      "ContentRoot": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
+      "ContentRoot": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
       "BasePath": "_content/WhoAmIGame",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WhoAmIGame.styles.css",
+      "Identity": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WhoAmIGame.styles.css",
       "SourceId": "WhoAmIGame",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/WhoAmIGame",
       "RelativePath": "WhoAmIGame.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WhoAmIGame.styles.css"
+      "OriginalItemSpec": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WhoAmIGame.styles.css"
     },
     {
-      "Identity": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WhoAmIGame.bundle.scp.css",
+      "Identity": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WhoAmIGame.bundle.scp.css",
       "SourceId": "WhoAmIGame",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/WhoAmIGame",
       "RelativePath": "WhoAmIGame.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WhoAmIGame.bundle.scp.css"
+      "OriginalItemSpec": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WhoAmIGame.bundle.scp.css"
     },
     {
-      "Identity": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "WhoAmIGame",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
+      "ContentRoot": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
       "BasePath": "_content/WhoAmIGame",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "WhoAmIGame",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
+      "ContentRoot": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
       "BasePath": "_content/WhoAmIGame",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "WhoAmIGame",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
+      "ContentRoot": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
       "BasePath": "_content/WhoAmIGame",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "WhoAmIGame",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
+      "ContentRoot": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
       "BasePath": "_content/WhoAmIGame",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "WhoAmIGame",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
+      "ContentRoot": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
       "BasePath": "_content/WhoAmIGame",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "WhoAmIGame",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
+      "ContentRoot": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
       "BasePath": "_content/WhoAmIGame",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "WhoAmIGame",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
+      "ContentRoot": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
       "BasePath": "_content/WhoAmIGame",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "WhoAmIGame",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
+      "ContentRoot": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
       "BasePath": "_content/WhoAmIGame",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "WhoAmIGame",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
+      "ContentRoot": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
       "BasePath": "_content/WhoAmIGame",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "WhoAmIGame",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
+      "ContentRoot": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
       "BasePath": "_content/WhoAmIGame",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "WhoAmIGame",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
+      "ContentRoot": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
       "BasePath": "_content/WhoAmIGame",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\site.css",
+      "Identity": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\site.css",
       "SourceId": "WhoAmIGame",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
+      "ContentRoot": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
       "BasePath": "_content/WhoAmIGame",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\favicon.ico",
+      "Identity": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\favicon.ico",
       "SourceId": "WhoAmIGame",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
+      "ContentRoot": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
       "BasePath": "_content/WhoAmIGame",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
