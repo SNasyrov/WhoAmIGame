@@ -1,0 +1,17 @@
+﻿@page "/entry"
+@inject Services.ApiService.ApiService apiService
+
+<PageTitle>Страница входа</PageTitle>
+
+<a class="btn" href="counter" @onclick="CreateGuest">
+    Войти
+</a>
+
+@code
+{
+    public async void CreateGuest()
+    {
+        await apiService.CreateGuestAsync();
+    }
+}
+

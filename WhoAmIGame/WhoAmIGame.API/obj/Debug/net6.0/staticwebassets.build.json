@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iIEjL550A+HMqHV8otpTJ1ojx1YZVg539UHMWjWCb0s=",
+  "Source": "WhoAmIGame.API",
+  "BasePath": "_content/WhoAmIGame.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

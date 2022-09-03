@@ -21,7 +21,7 @@ main[b-j0wqklmg2o] {
     align-items: center;
 }
 
-    .top-row[b-j0wqklmg2o]  a, .top-row .btn-link[b-j0wqklmg2o] {
+    .top-row a[b-j0wqklmg2o], .top-row .btn-link[b-j0wqklmg2o] {
         white-space: nowrap;
         margin-left: 1.5rem;
     }

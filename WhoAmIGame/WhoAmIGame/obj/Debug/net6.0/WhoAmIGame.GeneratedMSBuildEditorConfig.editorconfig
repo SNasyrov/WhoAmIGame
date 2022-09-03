@@ -8,49 +8,49 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WhoAmIGame
 build_property.RootNamespace = WhoAmIGame
-build_property.ProjectDir = D:\WhoAmIGame\WhoAmIGame\WhoAmIGame\
+build_property.ProjectDir = C:\WhoAmIGame\WhoAmIGame\WhoAmIGame\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = D:\WhoAmIGame\WhoAmIGame\WhoAmIGame
+build_property.MSBuildProjectDirectory = C:\WhoAmIGame\WhoAmIGame\WhoAmIGame
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/WhoAmIGame/WhoAmIGame/WhoAmIGame/App.razor]
+[C:/WhoAmIGame/WhoAmIGame/WhoAmIGame/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WhoAmIGame/WhoAmIGame/WhoAmIGame/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[C:/WhoAmIGame/WhoAmIGame/WhoAmIGame/Pages/Entry.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW50cnkucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WhoAmIGame/WhoAmIGame/WhoAmIGame/Pages/Index.razor]
+[C:/WhoAmIGame/WhoAmIGame/WhoAmIGame/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WhoAmIGame/WhoAmIGame/WhoAmIGame/Shared/SurveyPrompt.razor]
+[C:/WhoAmIGame/WhoAmIGame/WhoAmIGame/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WhoAmIGame/WhoAmIGame/WhoAmIGame/_Imports.razor]
+[C:/WhoAmIGame/WhoAmIGame/WhoAmIGame/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WhoAmIGame/WhoAmIGame/WhoAmIGame/Shared/MainLayout.razor]
+[C:/WhoAmIGame/WhoAmIGame/WhoAmIGame/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-j0wqklmg2o
 
-[D:/WhoAmIGame/WhoAmIGame/WhoAmIGame/Shared/NavMenu.razor]
+[C:/WhoAmIGame/WhoAmIGame/WhoAmIGame/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-t15npxlm41
 
-[D:/WhoAmIGame/WhoAmIGame/WhoAmIGame/Pages/Error.cshtml]
+[C:/WhoAmIGame/WhoAmIGame/WhoAmIGame/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WhoAmIGame/WhoAmIGame/WhoAmIGame/Pages/_Host.cshtml]
+[C:/WhoAmIGame/WhoAmIGame/WhoAmIGame/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WhoAmIGame/WhoAmIGame/WhoAmIGame/Pages/_Layout.cshtml]
+[C:/WhoAmIGame/WhoAmIGame/WhoAmIGame/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
