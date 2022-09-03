@@ -1,0 +1,9 @@
+﻿.Lobby-card {
+    display:flex;
+    gap:10px;
+}
+
+.card {
+    padding: 15px;
+    background-color: #F2EEED;
+}

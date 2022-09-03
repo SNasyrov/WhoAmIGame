@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "B8h8S2R9/26k7e+D3GjHu4VhiCvune+TkT5j1aeTUcI=",
+  "Hash": "SJ4/AvprmOEOp6KAyvTHPNBTh086nwXVvDAIz2rAsuo=",
   "Source": "WhoAmIGame",
   "BasePath": "_content/WhoAmIGame",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "SourceId": "WhoAmIGame",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
+      "BasePath": "_content/WhoAmIGame",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
       "Identity": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
@@ -187,23 +204,6 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "SourceId": "WhoAmIGame",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
-      "BasePath": "_content/WhoAmIGame",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
-    },
-    {
       "Identity": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "WhoAmIGame",
       "SourceType": "Discovered",
@@ -253,6 +253,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\css\\site\\Lobby\\Lobby.css",
+      "SourceId": "WhoAmIGame",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\",
+      "BasePath": "_content/WhoAmIGame",
+      "RelativePath": "css/site/Lobby/Lobby.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site\\Lobby\\Lobby.css"
     },
     {
       "Identity": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\wwwroot\\favicon.ico",
