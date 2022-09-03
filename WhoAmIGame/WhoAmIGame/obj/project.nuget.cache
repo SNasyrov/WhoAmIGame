@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "WnpOsUUjFcNkFsDJfiFd3VBGKer14Pt39d+9Ki1cHW/Yv7jOSyBRwayYSi5kPPmRi45Vyxn3x+zCj65ufSownw==",
+  "success": true,
+  "projectFilePath": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame.csproj",
+=======
   "dgSpecHash": "WCDukfMIzw5GJwC4d7eDYaearGWyMz+PMmq2c05WPF+3ZfEPwNBOl5ovMc69f3R7USlpunI35opOZ4eooMT5CA==",
   "success": true,
   "projectFilePath": "C:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame.csproj",
+>>>>>>> main
   "expectedPackageFiles": [
     "C:\\Users\\schet\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
     "C:\\Users\\schet\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.8\\microsoft.aspnetcore.mvc.razor.extensions.6.0.8.nupkg.sha512",
