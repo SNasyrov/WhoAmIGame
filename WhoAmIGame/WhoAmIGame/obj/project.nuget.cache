@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Sfh5/Mpvlndxz42yDfZovHwS3k6ijIj3T5pHL8ixdXGriSAz6A8drUWdAnBAdEoCQk/CeNFZeEdS4Rfwq05gA==",
+  "dgSpecHash": "WnpOsUUjFcNkFsDJfiFd3VBGKer14Pt39d+9Ki1cHW/Yv7jOSyBRwayYSi5kPPmRi45Vyxn3x+zCj65ufSownw==",
   "success": true,
-  "projectFilePath": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame.csproj",
+  "projectFilePath": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\irolc\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\irolc\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.8\\microsoft.aspnetcore.mvc.razor.extensions.6.0.8.nupkg.sha512",

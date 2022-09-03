@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame.csproj": {}
+    "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame.csproj": {}
   },
   "projects": {
-    "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame.csproj": {
+    "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame.csproj",
+        "projectUniqueName": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame.csproj",
         "projectName": "WhoAmIGame",
-        "projectPath": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame.csproj",
+        "projectPath": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame.csproj",
         "packagesPath": "C:\\Users\\irolc\\.nuget\\packages\\",
-        "outputPath": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\obj\\",
+        "outputPath": "D:\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\WhoAmIGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
